@@ -1,4 +1,4 @@
-FROM php:7.0-apache
+FROM php:5.6-apache
 
 # SuiteCRM 7.7.6
 ENV DOWNLOAD_URL https://suitecrm.com/files/152/SuiteCRM%207.7/105/SuiteCRM-7.7.6.zip
